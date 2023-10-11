@@ -7,13 +7,13 @@
 
 ![Day of The Dead Celebration](/img/pexels-jair-hernandez-13899439.jpg)
 
-##Proffesional with 20 years in industies ranging from manufacturing, ##healthcare, telecommunications and civic engamenet.
+## Proffesional with 20 years in industies ranging from manufacturing healthcare, telecommunications and civic engamenet.
 
-##Starting a career in tech where I would like to be part of a super team ##and create net positive for the world :world:.
+## Starting a career in tech where I would like to be part of a super team and create net positive for the world :world:
 
 Some of my hobbies include
-⋅⋅* Watching anime
-⋅⋅* Playing disc gold
+*Watching anime
+⋅⋅*Playing disc gold
 ⋅⋅* Going to art and craft festivals
 ⋅⋅* Playing with my dog :dog:
 
