@@ -22,5 +22,5 @@ Some of my hobbies include
 ### And I have some assigmnets to complete
 
 - [X] About me using markdown
-- [] Linking withint the file to another sections
-- [] Adding a profile picture of me
+- [ ] Linking withint the file to another sections
+- [ ] Adding a profile picture of me
